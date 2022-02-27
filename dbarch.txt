@@ -1,0 +1,16 @@
+[0]  username
+[1]  userid
+[2]  rank
+[3]  total_games
+[4]  wins
+[5]  coins
+[6]  skin
+[7]  secret_title
+[8]  unlocked_skins
+[9]  unlocked_ranks
+[10] place_tile
+[11] unlocked_tiles
+[12] flag
+[13] unlocked_flags
+[14] xp
+[15] xp_data
