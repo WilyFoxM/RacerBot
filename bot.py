@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import io
 import numpy as np
 
-TOKEN = '5134249708:AAHv3hyg-As8zUxFs4oC0xaYevZ9N-Z41SE'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
