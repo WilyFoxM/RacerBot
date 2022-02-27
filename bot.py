@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import io
 import numpy as np
 
+ctx_token = ''
 TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
