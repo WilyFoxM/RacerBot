@@ -8,7 +8,11 @@ import io
 import numpy as np
 
 ctx_token = ''
-TOKEN = ''
+
+with open('ctx.txt', 'r') as f:
+    ctx_token = str(f.readline())
+
+TOKEN = ctx_token
 
 bot = telebot.TeleBot(TOKEN)
 
